@@ -3,21 +3,23 @@
   font-family: 'Roboto', sans-serif;
 }
 
-:root{
-  --primary: #2A7AE4;
-  --black: #000;
+:root {
+  --primary: #e15b2c;
+  --black: #000000;
   --blackLighter: #9E9E9E;
-  --grayLighter: #F5F5F5;
-  --grayMedium: #e5e5e5;
-  --white: #fff;
-  --frontEnd: #6bd1ff;
-  --backEnd: #00c86f;
+  --grayLight: #F5F5F5;
+  --grayMedium: #e5e5e5; 
+  --white: #FFFFFF;
+  --frontEnd: #6BD1FF;
+  --backEnd: #00C86F;
 }
 
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
 }
+
 a {
-  color: inherit
-}
+  color: inherit;
+} 
